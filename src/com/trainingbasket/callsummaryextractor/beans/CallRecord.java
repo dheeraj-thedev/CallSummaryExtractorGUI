@@ -1,6 +1,10 @@
 package com.trainingbasket.callsummaryextractor.beans;
 
+
+
 public class CallRecord {
+	
+
 		private String m_srNo;
 		private String m_extension;
 		private String m_mics;
